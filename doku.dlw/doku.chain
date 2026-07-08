@@ -4,6 +4,6 @@ slug  : doku
 seal  : ea6d5898660c60b7f4d5454c188930f8247c62b955a3e98fdeaa25aa89c5faef
 prev  : a079b52f512f6c97dbd5e4b192d6ba18d2c8c2e8d74529454b8a4e1c00a177dc
 link  : 83725eeb76734d3fd29c50f5b812a9192b1cdccc882e1468db7a84f4b6d65c42
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
