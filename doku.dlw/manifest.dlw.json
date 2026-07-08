@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-DOKU",
+  "name": "独 DOKU · DKU",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦独 DOKU · DKU:doku:ea6d58⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "ea6d5898660c60b7f4d5454c188930f8247c62b955a3e98fdeaa25aa89c5faef",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
